@@ -1,4 +1,4 @@
--Medlytics is a responsive web app for analytics based Healthcare managemet.Major modules include homescreen, services,technology, testimonial, etc.
+-LearnViz is a data science dashboard for student performance management/ assessment in academic school/college. Student course, grade, attendance and progress evolution is viewable with interactive visual grapichs.
 
 -project page:https://kamalrossi.github.io/learnviz/
 
