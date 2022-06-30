@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/learnviz/static/css/main.f4cd630d.chunk.css",
+    "main.js": "/learnviz/static/js/main.2ce592b9.chunk.js",
+    "main.js.map": "/learnviz/static/js/main.2ce592b9.chunk.js.map",
+    "runtime-main.js": "/learnviz/static/js/runtime-main.b403c9f8.js",
+    "runtime-main.js.map": "/learnviz/static/js/runtime-main.b403c9f8.js.map",
+    "static/css/2.31ff0196.chunk.css": "/learnviz/static/css/2.31ff0196.chunk.css",
+    "static/js/2.eab0eb4e.chunk.js": "/learnviz/static/js/2.eab0eb4e.chunk.js",
+    "static/js/2.eab0eb4e.chunk.js.map": "/learnviz/static/js/2.eab0eb4e.chunk.js.map",
+    "static/js/3.2975acb4.chunk.js": "/learnviz/static/js/3.2975acb4.chunk.js",
+    "static/js/3.2975acb4.chunk.js.map": "/learnviz/static/js/3.2975acb4.chunk.js.map",
+    "index.html": "/learnviz/index.html",
+    "static/css/2.31ff0196.chunk.css.map": "/learnviz/static/css/2.31ff0196.chunk.css.map",
+    "static/css/main.f4cd630d.chunk.css.map": "/learnviz/static/css/main.f4cd630d.chunk.css.map",
+    "static/js/2.eab0eb4e.chunk.js.LICENSE.txt": "/learnviz/static/js/2.eab0eb4e.chunk.js.LICENSE.txt",
+    "static/media/eduplanet2.b9ea961d.png": "/learnviz/static/media/eduplanet2.b9ea961d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b403c9f8.js",
+    "static/css/2.31ff0196.chunk.css",
+    "static/js/2.eab0eb4e.chunk.js",
+    "static/css/main.f4cd630d.chunk.css",
+    "static/js/main.2ce592b9.chunk.js"
+  ]
+}
